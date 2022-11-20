@@ -13,4 +13,4 @@ Important to know!
  
 Check out the video to see how it works!
 
-<a href="https://youtu.be/Hb-4j8gWtMc"><img src="https://i.ibb.co/j4qGCnr/1.png" alt="1" border="0"></a>
+<a href="https://youtu.be/Hb-4j8gWtMc" target="_blank"><img src="https://i.ibb.co/j4qGCnr/1.png" alt="1" border="0"></a>
